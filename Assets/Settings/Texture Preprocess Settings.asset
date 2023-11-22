@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e941a61f56bf5040b23a1322bd96b5a, type: 3}
+  m_Name: Texture Preprocess Settings
+  m_EditorClassIdentifier: 
+  textureType: 0
+  textureShape: 1
+  sRGBTexture: 1
+  alphaSource: 1
+  alphaIsTransparency: 0
+  ignorePNGFileGamma: 0
+  nonPowerOf2: 1
+  readWriteEnabled: 0
+  streamingMipmaps: 0
+  vitrualTextureOnly: 0
+  generateMipMaps: 1
+  borderMipMaps: 0
+  mipmapFilter: 0
+  mipMapsPreserveCoverage: 0
+  fadeoutMipMaps: 0
+  wrapMode: 0
+  filterMode: 1
+  anisoLevel: 1
+  maxSize: 2048
+  format: -1
+  compression: 1
+  useCrunchCompression: 0

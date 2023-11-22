@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235145e57a53f0742953e47e9379d417, type: 3}
+  m_Name: New Audio Database
+  m_EditorClassIdentifier: 
+  groups:
+  - {fileID: 1728526821488615914}
+  - {fileID: 5859246814033847911}
+--- !u!114 &1728526821488615914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b777a1c5f51ab449c4ad4863655ffc, type: 3}
+  m_Name: Click
+  m_EditorClassIdentifier: 
+  id: 100
+  datas:
+  - id: 1000
+    clip: {fileID: 8300000, guid: 02681abe82d10c94e9d6fce12ca42346, type: 3}
+  - id: 1001
+    clip: {fileID: 8300000, guid: a02459bb33d0e014aab392308205f0b8, type: 3}
+--- !u!114 &5859246814033847911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b777a1c5f51ab449c4ad4863655ffc, type: 3}
+  m_Name: Hover
+  m_EditorClassIdentifier: 
+  id: 101
+  datas: []
